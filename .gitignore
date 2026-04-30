@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# Linguistix Data & User Privacy
+linguistix_data.json
+linguistix_users.json
+linguistix_temp_data.json
+data_user_hie.json
+*.json
+
+# OCR / Torch cache
+.cache/
+.easyocr/
+
+# OS
+.DS_Store
+Thumbs.db
